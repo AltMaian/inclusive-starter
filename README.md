@@ -2,7 +2,7 @@
 
 > Open source React component library for building accessible user interfaces. Features auto-save forms, empathetic error messages, and components designed for real people in stressful situations. 
 
-**Accessibility isn't a feature—it's the foundation.**
+**Accessibility isn't a feature, it's the foundation.**
 
 ---
 
@@ -16,7 +16,7 @@ This project is in early development. Components and documentation are being act
 
 ## Why Inclusive Starter?
 
-Most UI libraries treat accessibility as an afterthought—a checklist to complete before launch. Inclusive Starter takes a different approach: **designing for real humans in real situations from day one**.
+Most UI libraries treat accessibility as an afterthought: a checklist to complete before launch. Inclusive Starter takes a different approach: **designing for real humans in real situations from day one**.
 
 ### Built for people who are:
 - 😴 Tired
