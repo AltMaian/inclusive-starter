@@ -111,26 +111,6 @@ If your interface only works when users have perfect focus and unlimited time, *
 
 ---
 
-## Roadmap
-
-### Phase 1: MVP (Current)
-- [ ] 5-10 core components
-- [ ] Documentation (README, PRINCIPLES.md)
-- [ ] 2-3 example applications
-- [ ] GitHub repo public
-
-### Phase 2: Documentation
-- [ ] Storybook with live examples
-- [ ] Case study on altmaian.dev
-- [ ] Video tutorial (optional)
-
-### Phase 3: Community
-- [ ] npm package
-- [ ] Gather feedback from accessibility community
-- [ ] Iterate based on real user testing
-
----
-
 ## Contributing
 
 This project is in early development. Once the core components are ready, contributions will be very welcome!
@@ -156,23 +136,16 @@ This project stands on the shoulders of giants:
 - Focus on **empathetic design**, not just technical compliance
 - Auto-save, undo, non-aggressive errors built-in
 - **"Real people"** philosophy
-- Maternal/caregiver perspective incorporated into design
-
----
-
-## License
-
-MIT License - See [LICENSE](LICENSE) for details
 
 ---
 
 ## About
 
-Created by [altmaian](https://github.com/Altmaian) | [altmaian.dev](https://altmaian.dev)
+Created by [altmaian](https://github.com/Altmaian) | [altmaian.dev](https://my-portfolio-nu-one-29.vercel.app/)
 
 Design Engineer focused on accessibility and human-centered design.
 
-**"Building interfaces that work for everyone—especially when life doesn't."**
+**"Building interfaces that work for everyone, especially when life doesn't."**
 
 ---
 
@@ -182,8 +155,6 @@ Design Engineer focused on accessibility and human-centered design.
 - 💼 [GitHub](https://github.com/Altmaian)
 
 ---
-<p align="center">
-  <strong>Accessibility is a human right, not a feature.</strong>
-</p>
+
   <strong>Accessibility is a human right, not a feature.</strong>
 </p>
